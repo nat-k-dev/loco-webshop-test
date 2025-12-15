@@ -17,5 +17,12 @@
         "Reviews": "Bewertungen",
         "ReviewCount": "Anzahl der Bewertungen",
         "ReviewDate": "Bewertungsdatum"
+    },
+    "Controls": {
+        "button": {
+            "Add": "Hinzufügen",
+            "Cancel": "Abbrechen",
+            "Remove": "Entfernen"
+        }
     }
 }

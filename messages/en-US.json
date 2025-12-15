@@ -17,5 +17,12 @@
         "Reviews": "Reviews",
         "ReviewCount": "Review Count",
         "ReviewDate": "Review Date"
+    },
+    "Controls": {
+        "button": {
+            "Add": "Add",
+            "Cancel": "Cancel",
+            "Remove": "Remove"
+        }
     }
 }
