@@ -19,7 +19,7 @@
         "ReviewDate": "Review Date"
     },
     "Controls": {
-        "button": {
+        "Button": {
             "Add": "Add",
             "Cancel": "Cancel",
             "Remove": "Remove"

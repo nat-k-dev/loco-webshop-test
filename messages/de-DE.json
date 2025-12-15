@@ -19,7 +19,7 @@
         "ReviewDate": "Bewertungsdatum"
     },
     "Controls": {
-        "button": {
+        "Button": {
             "Add": "Hinzufügen",
             "Cancel": "Abbrechen",
             "Remove": "Entfernen"
