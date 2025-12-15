@@ -3,7 +3,7 @@
         "welcome": "Wilkommen in unseren webshop",
         "join": "Beitreten",
         "Goodbye": "Auf Wiedersehen",
-        "FilterProducts": ""
+        "FilterProducts": "Filter {count} Produkte"
     },
     "Footer": {
         "privacy-policy": "Datenschutzbestimmungen",
