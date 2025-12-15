@@ -1,0 +1,21 @@
+{
+    "Home": {
+        "welcome": "Welkom bij onze webshop",
+        "join": "Deelnemen",
+        "Goodbye": "Vaarwel"
+    },
+    "Footer": {
+        "privacy-policy": "Privacybeleid",
+        "Copyright": "Auteursrecht",
+        "All-Rights-Reserved": "Alle rechten voorbehouden"
+    },
+    "Header": {
+        "Login": "Inloggen",
+        "Logout": "Uitloggen"
+    },
+    "ProductDetails": {
+        "Reviews": "Beoordelingen",
+        "ReviewCount": "Aantal beoordelingen",
+        "ReviewDate": "Beoordelingsdatum"
+    }
+}

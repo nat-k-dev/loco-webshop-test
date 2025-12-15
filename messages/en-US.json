@@ -1,0 +1,21 @@
+{
+    "Home": {
+        "welcome": "Welcome in our webshop",
+        "join": "Join",
+        "Goodbye": "Goodbye"
+    },
+    "Footer": {
+        "privacy-policy": "Privacy policy",
+        "Copyright": "Copyright",
+        "All-Rights-Reserved": "All Rights Reserved"
+    },
+    "Header": {
+        "Login": "Login",
+        "Logout": "Logout"
+    },
+    "ProductDetails": {
+        "Reviews": "Reviews",
+        "ReviewCount": "Review Count",
+        "ReviewDate": "Review Date"
+    }
+}
