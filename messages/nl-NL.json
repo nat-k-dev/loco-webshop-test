@@ -2,7 +2,8 @@
     "Home": {
         "welcome": "Welkom bij onze webshop",
         "join": "Deelnemen",
-        "Goodbye": "Vaarwel"
+        "Goodbye": "Vaarwel",
+        "FilterProducts": ""
     },
     "Footer": {
         "privacy-policy": "Privacybeleid",

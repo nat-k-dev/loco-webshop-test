@@ -2,7 +2,8 @@
     "Home": {
         "welcome": "Wilkommen in unseren webshop",
         "join": "Beitreten",
-        "Goodbye": "Auf Wiedersehen"
+        "Goodbye": "Auf Wiedersehen",
+        "FilterProducts": ""
     },
     "Footer": {
         "privacy-policy": "Datenschutzbestimmungen",
