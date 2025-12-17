@@ -2,7 +2,8 @@
     "Home": {
         "welcome": "Welcome in our webshop",
         "join": "Join",
-        "Goodbye": "Goodbye"
+        "Goodbye": "Goodbye",
+        "FilterProducts": "Filter {count} products"
     },
     "Footer": {
         "privacy-policy": "Privacy policy",
@@ -17,5 +18,12 @@
         "Reviews": "Reviews",
         "ReviewCount": "Review Count",
         "ReviewDate": "Review Date"
+    },
+    "Controls": {
+        "Button": {
+            "Add": "Add",
+            "Cancel": "Cancel",
+            "Remove": "Remove"
+        }
     }
 }

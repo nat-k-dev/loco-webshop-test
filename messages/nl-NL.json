@@ -2,7 +2,8 @@
     "Home": {
         "welcome": "Welkom bij onze webshop",
         "join": "Deelnemen",
-        "Goodbye": "Vaarwel"
+        "Goodbye": "Vaarwel",
+        "FilterProducts": "Filter {count} producten"
     },
     "Footer": {
         "privacy-policy": "Privacybeleid",
@@ -18,7 +19,11 @@
         "ReviewCount": "Aantal beoordelingen",
         "ReviewDate": "Beoordelingsdatum"
     },
-    "FromIDE": {
-        "TextFromIDE": "Text uit IDE"
+    "Controls": {
+        "Button": {
+            "Add": "Toevoegen",
+            "Cancel": "Annuleren",
+            "Remove": "Verwijderen"
+        }
     }
 }
