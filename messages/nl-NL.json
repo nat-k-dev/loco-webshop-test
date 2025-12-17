@@ -25,5 +25,8 @@
             "Cancel": "Annuleren",
             "Remove": "Verwijderen"
         }
+    },
+    "FromIDE": {
+        "FromIDE": "Vanuit IDE"
     }
 }
